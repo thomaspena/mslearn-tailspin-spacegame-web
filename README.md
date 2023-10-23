@@ -1,3 +1,4 @@
+![image](https://github.com/thomaspena/mslearn-tailspin-spacegame-web/assets/148784653/3a726bf4-f69f-4639-8cbd-29a5bfac3ed0)
 
 # Contributing
 
